@@ -1,0 +1,1191 @@
+# depslib dependency file v1.0
+1750880573 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\archivoclub.cpp
+	"archivoClub.h"
+
+1751278239 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\archivogoles.cpp
+	"archivoGoles.h"
+
+1749166652 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\archivojugador.cpp
+	"archivoJugador.h"
+
+1750880549 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\club.cpp
+	"club.h"
+	"archivoClub.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1751147955 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\goles.cpp
+	<iostream>
+	"goles.h"
+	"ligaManager.h"
+	"archivoGoles.h"
+	<cstring>
+	<string>
+	<iomanip>
+
+1751298183 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\ligamanager.cpp
+	<iostream>
+	"ligaManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<string>
+
+1751296070 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\main.cpp
+	<iostream>
+	"menu.h"
+	"ligaManager.h"
+
+1751289023 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\menu.cpp
+	"menu.h"
+	"ligaManager.h"
+	"consultasManager.h"
+	"listadosManager.h"
+	"informesManager.h"
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<string>
+
+1751134260 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\jugador.cpp
+	"jugador.h"
+	"archivoJugador.h"
+	"ligaManager.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1751134260 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\jugador.h
+	<string>
+	"Fecha.h"
+
+1750869136 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\menu.h
+
+1716487482 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1748775852 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\archivojugador.h
+	<string>
+	"jugador.h"
+
+1751295128 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\ligamanager.h
+	"jugador.h"
+	"club.h"
+	"goles.h"
+
+1750806799 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\fecha.h
+	<string>
+
+1750806799 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<limits>
+	<sstream>
+	<iomanip>
+
+1751298594 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\listadosmanager.cpp
+	"ligaManager.h"
+	"listadosManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	"utilidades.h"
+	<iostream>
+
+1751282826 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\listadosmanager.h
+
+1750880573 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\archivoclub.h
+	"club.h"
+	<string>
+
+1750879765 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\club.h
+	"Fecha.h"
+	<string>
+
+1750880573 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\archivoclub.cpp
+	"archivoClub.h"
+
+1750880573 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\archivoclub.h
+	"club.h"
+	<string>
+
+1750879765 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\club.h
+	"Fecha.h"
+	<string>
+
+1750806799 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\fecha.h
+	<string>
+
+1750862849 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\archivogoles.cpp
+	"archivoGoles.h"
+
+1749166652 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\archivojugador.cpp
+	"archivoJugador.h"
+
+1748775852 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\archivojugador.h
+	<string>
+	"jugador.h"
+
+1749993028 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\jugador.h
+	<string>
+	"Fecha.h"
+
+1750880549 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\club.cpp
+	"club.h"
+	"archivoClub.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1750806799 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<limits>
+	<sstream>
+	<iomanip>
+
+1750878969 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\goles.cpp
+	<iostream>
+	"goles.h"
+	"ligaManager.h"
+	"archivoGoles.h"
+	<cstring>
+	<string>
+	<iomanip>
+
+1750877676 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\jugador.cpp
+	"jugador.h"
+	"archivoJugador.h"
+	"ligaManager.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1750878428 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\ligamanager.h
+	"jugador.h"
+	"club.h"
+	"goles.h"
+
+1750872691 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\listadosmanager.cpp
+	"jugador.h"
+	"listadosManager.h"
+	"archivoJugador.h"
+	<iostream>
+
+1750872691 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\listadosmanager.h
+
+1746398863 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\main.cpp
+	<iostream>
+	"menu.h"
+
+1750869136 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\menu.h
+
+1750878980 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\menu.cpp
+	"menu.h"
+	"ligaManager.h"
+	"listadosManager.h"
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<string>
+
+1716487482 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750878969 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\goles.h
+	<string>
+
+1750862849 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\archivogoles.h
+	"goles.h"
+	<string>
+
+1750880479 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v15\goleadores\ligamanager.cpp
+	<iostream>
+	"ligaManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<string>
+
+1750880573 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\archivoclub.cpp
+	"archivoClub.h"
+
+1750880573 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\archivoclub.h
+	"club.h"
+	<string>
+
+1750879765 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\club.h
+	"Fecha.h"
+	<string>
+
+1750806799 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\fecha.h
+	<string>
+
+1750862849 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\archivogoles.cpp
+	"archivoGoles.h"
+
+1750862849 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\archivogoles.h
+	"goles.h"
+	<string>
+
+1750878969 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\goles.h
+	<string>
+
+1749166652 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\archivojugador.cpp
+	"archivoJugador.h"
+
+1748775852 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\archivojugador.h
+	<string>
+	"jugador.h"
+
+1749993028 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\jugador.h
+	<string>
+	"Fecha.h"
+
+1750880549 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\club.cpp
+	"club.h"
+	"archivoClub.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1750806799 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<limits>
+	<sstream>
+	<iomanip>
+
+1750982686 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\goles.cpp
+	<iostream>
+	"goles.h"
+	"ligaManager.h"
+	"archivoGoles.h"
+	<cstring>
+	<string>
+	<iomanip>
+
+1750878428 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\ligamanager.h
+	"jugador.h"
+	"club.h"
+	"goles.h"
+
+1750877676 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\jugador.cpp
+	"jugador.h"
+	"archivoJugador.h"
+	"ligaManager.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1750985938 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\ligamanager.cpp
+	<iostream>
+	"ligaManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<string>
+
+1746398863 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\main.cpp
+	<iostream>
+	"menu.h"
+
+1750869136 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\menu.h
+
+1750981653 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\informesmanager.cpp
+	"informesManager.h"
+	"jugador.h"
+	"archivoJugador.h"
+	<iostream>
+
+1750981653 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\informesmanager.h
+
+1750981837 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\listadosmanager.cpp
+	"jugador.h"
+	"listadosManager.h"
+	"archivoJugador.h"
+	<iostream>
+
+1750981837 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\listadosmanager.h
+
+1750981994 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\consultasmanager.cpp
+	"consultasManager.h"
+	"jugador.h"
+	"archivoJugador.h"
+	<iostream>
+
+1750981029 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\consultasmanager.h
+
+1750983405 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\menu.cpp
+	"menu.h"
+	"ligaManager.h"
+	"consultasManager.h"
+	"listadosManager.h"
+	"informesManager.h"
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<string>
+
+1716487482 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v16\goleadores_v16\goleadores\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750880573 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\archivoclub.cpp
+	"archivoClub.h"
+
+1750880573 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\archivoclub.h
+	"club.h"
+	<string>
+
+1750879765 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\club.h
+	"Fecha.h"
+	<string>
+
+1750806799 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\fecha.h
+	<string>
+
+1750862849 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\archivogoles.cpp
+	"archivoGoles.h"
+
+1750862849 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\archivogoles.h
+	"goles.h"
+	<string>
+
+1750878969 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\goles.h
+	<string>
+
+1749166652 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\archivojugador.cpp
+	"archivoJugador.h"
+
+1748775852 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\archivojugador.h
+	<string>
+	"jugador.h"
+
+1751049593 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\jugador.h
+	<string>
+	"Fecha.h"
+
+1750880549 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\club.cpp
+	"club.h"
+	"archivoClub.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1750981994 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\consultasmanager.cpp
+	"consultasManager.h"
+	"jugador.h"
+	"archivoJugador.h"
+	<iostream>
+
+1750981029 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\consultasmanager.h
+
+1750806799 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<limits>
+	<sstream>
+	<iomanip>
+
+1750982686 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\goles.cpp
+	<iostream>
+	"goles.h"
+	"ligaManager.h"
+	"archivoGoles.h"
+	<cstring>
+	<string>
+	<iomanip>
+
+1750878428 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\ligamanager.h
+	"jugador.h"
+	"club.h"
+	"goles.h"
+
+1750981653 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\informesmanager.cpp
+	"informesManager.h"
+	"jugador.h"
+	"archivoJugador.h"
+	<iostream>
+
+1750981653 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\informesmanager.h
+
+1751054235 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\jugador.cpp
+	"jugador.h"
+	"archivoJugador.h"
+	"ligaManager.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1751053503 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\ligamanager.cpp
+	<iostream>
+	"ligaManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<string>
+
+1750981837 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\listadosmanager.cpp
+	"jugador.h"
+	"listadosManager.h"
+	"archivoJugador.h"
+	<iostream>
+
+1750981837 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\listadosmanager.h
+
+1746398863 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\main.cpp
+	<iostream>
+	"menu.h"
+
+1750869136 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\menu.h
+
+1750983405 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\menu.cpp
+	"menu.h"
+	"ligaManager.h"
+	"consultasManager.h"
+	"listadosManager.h"
+	"informesManager.h"
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<string>
+
+1716487482 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\ultimos tpi-pr2\goleadores_v17.1\goleadores\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750880573 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\archivoclub.cpp
+	"archivoClub.h"
+
+1750880573 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\archivoclub.h
+	"club.h"
+	<string>
+
+1750879765 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\club.h
+	"Fecha.h"
+	<string>
+
+1750806799 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\fecha.h
+	<string>
+
+1750862849 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\archivogoles.cpp
+	"archivoGoles.h"
+
+1750862849 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\archivogoles.h
+	"goles.h"
+	<string>
+
+1750878969 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\goles.h
+	<string>
+
+1749166652 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\archivojugador.cpp
+	"archivoJugador.h"
+
+1748775852 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\archivojugador.h
+	<string>
+	"jugador.h"
+
+1751049593 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\jugador.h
+	<string>
+	"Fecha.h"
+
+1750880549 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\club.cpp
+	"club.h"
+	"archivoClub.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1750981994 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\consultasmanager.cpp
+	"consultasManager.h"
+	"jugador.h"
+	"archivoJugador.h"
+	<iostream>
+
+1750981029 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\consultasmanager.h
+
+1750806799 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<limits>
+	<sstream>
+	<iomanip>
+
+1750982686 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\goles.cpp
+	<iostream>
+	"goles.h"
+	"ligaManager.h"
+	"archivoGoles.h"
+	<cstring>
+	<string>
+	<iomanip>
+
+1750878428 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\ligamanager.h
+	"jugador.h"
+	"club.h"
+	"goles.h"
+
+1750981653 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\informesmanager.cpp
+	"informesManager.h"
+	"jugador.h"
+	"archivoJugador.h"
+	<iostream>
+
+1750981653 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\informesmanager.h
+
+1751054235 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\jugador.cpp
+	"jugador.h"
+	"archivoJugador.h"
+	"ligaManager.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1751122309 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\ligamanager.cpp
+	<iostream>
+	"ligaManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<string>
+
+1750981837 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\listadosmanager.cpp
+	"jugador.h"
+	"listadosManager.h"
+	"archivoJugador.h"
+	<iostream>
+
+1750981837 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\listadosmanager.h
+
+1746398863 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\main.cpp
+	<iostream>
+	"menu.h"
+
+1750869136 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\menu.h
+
+1750983405 source:c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\menu.cpp
+	"menu.h"
+	"ligaManager.h"
+	"consultasManager.h"
+	"listadosManager.h"
+	"informesManager.h"
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<string>
+
+1716487482 c:\users\gonzo\desktop\tp integrador goleadores\codigo de rodo\goleadores_v17.1\goleadores_v17.1\goleadores\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1751278239 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\archivogoles.h
+	"goles.h"
+	<string>
+
+1751144926 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\goles.h
+	<string>
+
+1751213723 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\consultasmanager.cpp
+	"consultasManager.h"
+	"jugador.h"
+	"goles.h"
+	"club.h"
+	"archivoJugador.h"
+	"archivoGoles.h"
+	"archivoClub.h"
+	<iostream>
+
+1751212730 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\consultasmanager.h
+
+1751291268 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\informesmanager.cpp
+	"informesManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<iostream>
+
+1751287677 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\informesmanager.h
+
+1751127733 source:c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\utilidades.cpp
+	"utilidades.h"
+	<iostream>
+	<string>
+
+1751148793 c:\users\gonzo\desktop\tp integrador goleadores\goleadores\goleadores\utilidades.h
+	<string>
+
+1750880573 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\archivoclub.cpp
+	"archivoClub.h"
+
+1750880573 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\archivoclub.h
+	"club.h"
+	<string>
+
+1750879765 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\club.h
+	"Fecha.h"
+	<string>
+
+1750806799 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\fecha.h
+	<string>
+
+1751278239 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\archivogoles.cpp
+	"archivoGoles.h"
+
+1751278239 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\archivogoles.h
+	"goles.h"
+	<string>
+
+1751144926 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\goles.h
+	<string>
+
+1749166652 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\archivojugador.cpp
+	"archivoJugador.h"
+
+1748775852 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\archivojugador.h
+	<string>
+	"jugador.h"
+
+1751134260 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\jugador.h
+	<string>
+	"Fecha.h"
+
+1750880549 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\club.cpp
+	"club.h"
+	"archivoClub.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1751302004 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\consultasmanager.cpp
+	"consultasManager.h"
+	"jugador.h"
+	"goles.h"
+	"club.h"
+	"archivoJugador.h"
+	"archivoGoles.h"
+	"archivoClub.h"
+	<iostream>
+
+1751302004 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\consultasmanager.h
+
+1750806799 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<limits>
+	<sstream>
+	<iomanip>
+
+1751147955 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\goles.cpp
+	<iostream>
+	"goles.h"
+	"ligaManager.h"
+	"archivoGoles.h"
+	<cstring>
+	<string>
+	<iomanip>
+
+1751295128 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\ligamanager.h
+	"jugador.h"
+	"club.h"
+	"goles.h"
+
+1751302891 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\informesmanager.cpp
+	"informesManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<iostream>
+
+1751302891 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\informesmanager.h
+
+1751134260 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\jugador.cpp
+	"jugador.h"
+	"archivoJugador.h"
+	"ligaManager.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1751318526 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\ligamanager.cpp
+	<iostream>
+	"ligaManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<string>
+
+1751301379 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\listadosmanager.cpp
+	"ligaManager.h"
+	"listadosManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	"utilidades.h"
+	<iostream>
+
+1751301459 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\listadosmanager.h
+
+1751148793 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\utilidades.h
+	<string>
+
+1751316232 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\main.cpp
+	<iostream>
+	"menu.h"
+	"ligaManager.h"
+
+1750869136 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\menu.h
+
+1751315159 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\menu.cpp
+	"menu.h"
+	"ligaManager.h"
+	"consultasManager.h"
+	"listadosManager.h"
+	"informesManager.h"
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<string>
+
+1716487482 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1751127733 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v20\goleadores\utilidades.cpp
+	"utilidades.h"
+	<iostream>
+	<string>
+
+1750880573 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\archivoclub.cpp
+	"archivoClub.h"
+
+1750880573 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\archivoclub.h
+	"club.h"
+	<string>
+
+1750879765 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\club.h
+	"Fecha.h"
+	<string>
+
+1750806799 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\fecha.h
+	<string>
+
+1751278239 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\archivogoles.cpp
+	"archivoGoles.h"
+
+1751278239 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\archivogoles.h
+	"goles.h"
+	<string>
+
+1752520992 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\goles.h
+	<string>
+
+1749166652 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\archivojugador.cpp
+	"archivoJugador.h"
+
+1748775852 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\archivojugador.h
+	<string>
+	"jugador.h"
+
+1751134260 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\jugador.h
+	<string>
+	"Fecha.h"
+
+1750880549 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\club.cpp
+	"club.h"
+	"archivoClub.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1752177574 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\consultasmanager.cpp
+	"consultasManager.h"
+	"jugador.h"
+	"goles.h"
+	"club.h"
+	"archivoJugador.h"
+	"archivoGoles.h"
+	"archivoClub.h"
+	<iostream>
+
+1752170158 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\consultasmanager.h
+
+1750806799 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<limits>
+	<sstream>
+	<iomanip>
+
+1752523657 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\goles.cpp
+	<iostream>
+	"goles.h"
+	"ligaManager.h"
+	"archivoGoles.h"
+	<cstring>
+	<string>
+	<iomanip>
+
+1752523657 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\ligamanager.h
+	"jugador.h"
+	"club.h"
+	"goles.h"
+
+1752253261 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\informesmanager.cpp
+	"informesManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<iostream>
+
+1751302891 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\informesmanager.h
+
+1751134260 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\jugador.cpp
+	"jugador.h"
+	"archivoJugador.h"
+	"ligaManager.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1752530537 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\ligamanager.cpp
+	<iostream>
+	"ligaManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<string>
+	<algorithm>
+	<cctype>
+
+1751301379 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\listadosmanager.cpp
+	"ligaManager.h"
+	"listadosManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	"utilidades.h"
+	<iostream>
+
+1751301459 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\listadosmanager.h
+
+1751148793 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\utilidades.h
+	<string>
+
+1751316232 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\main.cpp
+	<iostream>
+	"menu.h"
+	"ligaManager.h"
+
+1750869136 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\menu.h
+
+1752520992 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\menu.cpp
+	"menu.h"
+	"ligaManager.h"
+	"consultasManager.h"
+	"listadosManager.h"
+	"informesManager.h"
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<string>
+
+1716487482 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1751127733 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_vfinal\goleadores\utilidades.cpp
+	"utilidades.h"
+	<iostream>
+	<string>
+
+1750880573 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\archivoclub.cpp
+	"archivoClub.h"
+
+1750880573 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\archivoclub.h
+	"club.h"
+	<string>
+
+1750879765 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\club.h
+	"Fecha.h"
+	<string>
+
+1750806799 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\fecha.h
+	<string>
+
+1751278239 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\archivogoles.cpp
+	"archivoGoles.h"
+
+1751278239 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\archivogoles.h
+	"goles.h"
+	<string>
+
+1752520992 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\goles.h
+	<string>
+
+1749166652 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\archivojugador.cpp
+	"archivoJugador.h"
+
+1748775852 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\archivojugador.h
+	<string>
+	"jugador.h"
+
+1751134260 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\jugador.h
+	<string>
+	"Fecha.h"
+
+1750880549 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\club.cpp
+	"club.h"
+	"archivoClub.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1752177574 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\consultasmanager.cpp
+	"consultasManager.h"
+	"jugador.h"
+	"goles.h"
+	"club.h"
+	"archivoJugador.h"
+	"archivoGoles.h"
+	"archivoClub.h"
+	<iostream>
+
+1752170158 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\consultasmanager.h
+
+1750806799 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\fecha.cpp
+	<iostream>
+	"fecha.h"
+	<limits>
+	<sstream>
+	<iomanip>
+
+1752523657 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\goles.cpp
+	<iostream>
+	"goles.h"
+	"ligaManager.h"
+	"archivoGoles.h"
+	<cstring>
+	<string>
+	<iomanip>
+
+1752523657 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\ligamanager.h
+	"jugador.h"
+	"club.h"
+	"goles.h"
+
+1752253261 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\informesmanager.cpp
+	"informesManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<iostream>
+
+1751302891 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\informesmanager.h
+
+1751134260 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\jugador.cpp
+	"jugador.h"
+	"archivoJugador.h"
+	"ligaManager.h"
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1751301379 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\listadosmanager.cpp
+	"ligaManager.h"
+	"listadosManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	"utilidades.h"
+	<iostream>
+
+1751301459 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\listadosmanager.h
+
+1751148793 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\utilidades.h
+	<string>
+
+1751316232 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\main.cpp
+	<iostream>
+	"menu.h"
+	"ligaManager.h"
+
+1750869136 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\menu.h
+
+1752520992 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\menu.cpp
+	"menu.h"
+	"ligaManager.h"
+	"consultasManager.h"
+	"listadosManager.h"
+	"informesManager.h"
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<string>
+
+1716487482 c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1751127733 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\utilidades.cpp
+	"utilidades.h"
+	<iostream>
+	<string>
+
+1752531147 source:c:\users\kikck\onedrive - frgp.utn.edu.ar\escritorio\goleadores_v40\goleadores\ligamanager.cpp
+	<iostream>
+	"ligaManager.h"
+	"jugador.h"
+	"club.h"
+	"goles.h"
+	"archivoJugador.h"
+	"archivoClub.h"
+	"archivoGoles.h"
+	<string>
+	<algorithm>
+	<cctype>
+
